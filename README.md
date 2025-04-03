@@ -1,7 +1,5 @@
 # FixBuild Limited - Construction & Renovation Website
 
-![FixBuild Logo](public/placeholder.svg)
-
 A professional website for FixBuild Limited, a construction and renovation company based in Fleet, Hampshire. This website showcases their services, portfolio, and provides contact information for potential clients.
 
 ## 🏗️ Features
